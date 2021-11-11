@@ -1,0 +1,20 @@
+h1{
+    color: red;
+    font-size: large;
+}
+
+.header {
+    background-color: aqua;
+}
+#first_blog {
+    color: blue;
+}
+.content p {
+    color: brown;
+}
+a:hover, a:visited{
+    font-size: xx-large;
+    color: blue; 
+}
+
+#first_blog::first-letter
