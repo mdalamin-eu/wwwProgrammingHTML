@@ -12,9 +12,9 @@ h1{
 .content p {
     color: brown;
 }
-a:hover, a:visited{
+a:hover {
     font-size: xx-large;
     color: blue; 
 }
 
-#first_blog::first-letter
+/* #first_blog::first-letter */
